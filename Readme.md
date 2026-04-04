@@ -61,9 +61,6 @@ Consistency and improvement are the main focus.
 
 ## 🤝 Connect with Me
 
-* LinkedIn: (Add your profile link here)
-* GitHub: (Your GitHub profile link)
-
+* LinkedIn: https://www.linkedin.com/in/kartik-mishra-a846053b9/
 ---
-
 ⭐ If you're also learning Java, feel free to explore and grow together!

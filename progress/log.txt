@@ -2,3 +2,6 @@ Day 1:
 - Learned variables
 - Learned data types
 - Wrote basic Java programs
+Day 2:
+- How Negative and floating numbers work
+- 

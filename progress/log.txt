@@ -10,7 +10,12 @@ Day 2:
 
 Day 3:
 - Java Type conversion 
-- Type promotion in Java
 
 Day 4:
--Java operators
+- Type promotion in Java
+
+Day 5:
+- Java operators
+
+Day 6 & 7:
+-

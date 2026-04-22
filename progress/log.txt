@@ -18,4 +18,8 @@ Day 5:
 - Java operators
 
 Day 6 & 7:
+- if-else Statements
+- Switch Statements
+
+Day 8:
 -

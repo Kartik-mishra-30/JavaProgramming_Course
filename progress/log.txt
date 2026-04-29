@@ -22,4 +22,9 @@ Day 6 & 7:
 - Switch Statements
 
 Day 8:
--
+-Java loops
+-jump Statements
+
+Day 9:
+- Practise on Statements
+

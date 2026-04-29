@@ -1,3 +1,4 @@
+package statements;
 public class statement2 {
     public static void main(String[] args) {
 
